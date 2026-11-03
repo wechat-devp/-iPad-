@@ -15,7 +15,7 @@ Telegram：[@opencode666](https://t.me/opencode666)
 
 也可扫描下方二维码联系：
 
-<img src="assets/telegram-opencode666.png" alt="Telegram @opencode666 联系二维码" width="260">
+<img src="telegram-opencode666.png" alt="Telegram @opencode666 联系二维码" width="260">
 
 ---
 
